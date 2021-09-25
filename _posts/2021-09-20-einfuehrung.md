@@ -21,3 +21,5 @@ Beim Einrichten von Linux hatte ich keine Probleme. Die Anmeldung funktionierte 
 Beim ersten Start der VM mussten wir noch ein paar Grundeinstellungen einrichten und dann war die VM auch schon bereit für alle zukünftigen Arbeiten! Bevor es zu den Übungen mit der Unix Shell kam, wurden wir noch über Git und Github aufgeklärt, damit wir dann auch mit dem Lerntagebuch starten konnten!
 
 Im nächsten Beitrag werden noch separat die Übungen mit der Unix shell erläutert, die wir während des Kurses durchgeführt haben.
+
+Bis zum nächsten Mal ;-)

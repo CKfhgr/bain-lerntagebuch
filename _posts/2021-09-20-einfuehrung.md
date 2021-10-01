@@ -11,7 +11,7 @@ Noch kurz sei gesagt: Ich habe leider nicht viel Erfahrung im Bloggen, weshalb i
 
 Sooo, nun kann ich eigentlich schon mit dem heutigen Unterricht beginnen...
 
-Heute, am 15. September 2021, war der erster Unterrichtsblock in BAIN. Nebst einer Vorstellung der Dozenten durften sich alle Studierenden vorstellen. Dabei wurde geteilt, wer bereits Erfahrung mit Software im Bereich der Bibliothek und Archiv hat. Ich selbst habe keinerlei Erfahrung in diesem Bereich. Ich bin jedoch gespannt, ob ich meine IT-Kenntnisse in diesem Kurs gut einsetzen kann und dennoch gut mithalten kann.
+Heute, am 15. September 2021, war der erster Unterrichtsblock in BAIN. Nebst einer Vorstellung der Dozenten durften sich alle Studierenden vorstellen. Dabei wurde geteilt, wer bereits Erfahrung mit Software im Bereich der Bibliothek und Archiv hat. Ich selbst habe keinerlei Erfahrung bezüglich Software in diesem Bereich, obwohl ich mal für ein Jahr in einer Bibliothek gearbeitet habe. Ich bin jedoch gespannt, ob ich meine IT-Kenntnisse in diesem Kurs gut einsetzen kann und dennoch gut mithalten kann. <br>
 Erwartungen an diesem Kurs sollten wir auch teilen. Ich erwarte spannende Lerninhalte und einen Gesamtüberblick von Software im Bibliotheks- und Archivbereich. Auch gespannt bin ich auf das Einrichten einer Suchmaschine.
 
 Dann durften wir unsere Linux Umgebung einrichten. Dafür bekammen wir virtuelle Maschinen mit vorinstalliertem Ubuntu als Betriebssystem zur Verfügung gestellt. Viele Webserver basieren auf Linux, was in unserem Fall auch dafür sprach.
@@ -20,6 +20,4 @@ Danach musste sichergestellt werden, dass das VPN der FHGR gestartet ist oder da
 Beim Einrichten von Linux hatte ich keine Probleme. Die Anmeldung funktionierte auf direktem Wege. Über die Weboberfläche von Horizon (über den Browser) kann die virtuelle Maschine auch gestartet werden. Das ist besonders dann praktisch, wenn mal auch von einem anderen Computer aus zugegriffen werden muss.
 Beim ersten Start der VM mussten wir noch ein paar Grundeinstellungen einrichten und dann war die VM auch schon bereit für alle zukünftigen Arbeiten! Bevor es zu den Übungen mit der Unix Shell kam, wurden wir noch über Git und Github aufgeklärt, damit wir dann auch mit dem Lerntagebuch starten konnten!
 
-Im nächsten Beitrag werden noch separat die Übungen mit der Unix shell erläutert, die wir während des Kurses durchgeführt haben.
-
-Bis zum nächsten Mal ;-)
+Im  <a href="https://ckfhgr.github.io/bain-lerntagebuch/2021/09/15/tag1.html">nächsten Beitrag</a> werden noch separat die Übungen mit der Unix shell erläutert, die wir während des Kurses durchgeführt haben.

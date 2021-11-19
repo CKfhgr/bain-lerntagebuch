@@ -1,6 +1,6 @@
 Übung Import und Export einer Ressource in Archivesspaces
 
-Die Übung bestand darin, eine RAW-XML Datei in Archivesspaces zu importieren, diese dann mit der ursprünglichen Datei zu vergleichen und danach als MARCXML-Datei zu exportieren.
+Die Übung bestand darin, EAD-Beispieldaten (im RAW-XML Format) in Archivesspaces zu importieren, diese dann mit der ursprünglichen Datei zu vergleichen und danach als MARCXML-Datei zu exportieren.
 Am Ende sollten wir wiederum die exportieren Datei mit der hochgeladenen Datei in Archivesspaces vergleichen. Ziel war es herauszufinden, ob und wann es zum Informationsverlust kam.
 
 Zuerst startete ich den Prozess von archivesspaces neu, da dieser wieder mal nicht lief. Danach kopierte ich mir noch die Raw-XML Datei von https://eadiva.com/sample-ead-files/ herunter. Wichtig, da habe ich lange gebraucht:

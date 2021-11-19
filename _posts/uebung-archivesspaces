@@ -6,4 +6,11 @@ Am Ende sollten wir wiederum die exportieren Datei mit der hochgeladenen Datei i
 Zuerst startete ich den Prozess von archivesspaces neu, da dieser wieder mal nicht lief. Danach kopierte ich mir noch die Raw-XML Datei von https://eadiva.com/sample-ead-files/ herunter. Wichtig, da habe ich lange gebraucht:
 Zuerst auf den Link "a raw XML file" mit Rechtsklick klicken und "Link speichern unter..." auswählen. Danach habe ich mir die XML-Datei in den Downloads Ordner heruntergeladen.
 Gesagt - Getan. Es folgte der Import. Um die Thematik und die Schrittfolge besser zu verstehen nutze ich diese Anleitung, welche ich im Web gefunden hatte als Vorlage: https://drive.google.com/file/d/1oSxnleSPIIlAbTksaEHWbP1RQseyIzu-/view
-Diese half mir ein Gesamtverständnis für die ausgeführten Schritte aufzubringen.
+Diese half mir ein Gesamtverständnis für die ausgeführten Schritte aufzubringen. Als die Datei erfolgreich hochgeladen wurde, 
+kontrollierte ich die hochgeladenen Records und verglich es mit der ursprünglichen Datei. Achtung: Hier hatte ich lange gebraucht, weil ich zuerst die RAW-XML Datei angeschaut hatte und nicht die HTML-Datei von Syracuse.
+Als ich die HTML-Datei kontrollierte konnte ich folgende Unterschiede erkennen:
+- Zeitraum ist falsch, bei Syracuse ist der Zeitraum von 1939-1969 und bei in Archivesspaces 1939-1958.
+- 
+
+
+Die hochgeladenen Dateien waren dann als "Resource" gespeichert.

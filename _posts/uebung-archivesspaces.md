@@ -13,7 +13,7 @@ Es folgte der Import. Um die Thematik und die Schrittfolge besser zu verstehen n
 Anleitung, die ich im Web bei meiner Recherche nach mehr Informationen zu Archivesspaces gefunden hatte. Diese half mir ein Gesamtverständnis für die ausgeführten Schritte 
 aufzubringen. Als ich die Datei erfolgreich hochgeladen hatte, kontrollierte ich die Anzeige im Archivesspace mit der ursprünglichen Datei. 
 Hier hatte ich auch wieder lange gebraucht, weil ich zuerst die <a href="https://eadiva.com/sampleEAD/syr-aaie.xml">RAW-XML Datei</a> angeschaut hatte
-und nicht die <a href="https://library.syr.edu/digital/guides/a/aaie.htm">HTML-Datei</a> von Syracuse. Das war natürlich viel komplizierte um Unterschiede zu erkennen. Aber
+und nicht die <a href="https://library.syr.edu/digital/guides/a/aaie.htm">HTML-Datei</a> von Syracuse. Das war natürlich viel komplizierter um Unterschiede zu erkennen. Aber
 auch mit HTML Version war der Vergleich sehr schwierig. Es schien so einiges zu fehlen...
 Ich konnte aber schlussendlich folgendes festellen:
 - Zeitraum ist unterschiedlich: bei Syracuse ist der Zeitraum von 1939-1969 und bei in Archivesspaces 1939-1958.

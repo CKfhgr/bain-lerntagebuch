@@ -1,1 +1,5 @@
 Übung Import und Export einer Ressource in Archivesspaces
+
+Die Übung bestand darin, eine RAW-XML Datei in Archivesspaces zu importieren, diese dann mit der ursprünglichen Datei zu vergleichen und danach als MARCXML-Datei zu exportieren.
+Am Ende sollten wir wiederum die exportieren Datei mit der hochgeladenen Datei in Archivesspaces vergleichen. Ziel war es herauszufinden, ob und wann es zum Informationsverlust kam.
+Nachdem ich den Prozess von archivesspaces neu gestartet hatte, konnte ich mit der Übung beginnen. 

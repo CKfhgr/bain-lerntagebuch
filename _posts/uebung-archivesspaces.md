@@ -13,11 +13,16 @@ Es folgte der Import. Um die Thematik und die Schrittfolge besser zu verstehen n
 Anleitung, die ich im Web bei meiner Recherche nach mehr Informationen zu Archivesspaces gefunden hatte. Diese half mir ein Gesamtverständnis für die ausgeführten Schritte 
 aufzubringen. Als ich die Datei erfolgreich hochgeladen hatte, kontrollierte ich die Anzeige im Archivesspace mit der ursprünglichen Datei. 
 Hier hatte ich auch wieder lange gebraucht, weil ich zuerst die <a href="https://eadiva.com/sampleEAD/syr-aaie.xml">RAW-XML Datei</a> angeschaut hatte
-und nicht die <a href="https://library.syr.edu/digital/guides/a/aaie.htm">HTML-Datei</a> von Syracuse. Das war natürlich viel komplizierte um Unterschiede zu erkennen.
-Ich konnte folgendes festellen:
-- Zeitraum ist falsch, bei Syracuse ist der Zeitraum von 1939-1969 und bei in Archivesspaces 1939-1958.
-- 
+und nicht die <a href="https://library.syr.edu/digital/guides/a/aaie.htm">HTML-Datei</a> von Syracuse. Das war natürlich viel komplizierte um Unterschiede zu erkennen. Aber
+auch mit HTML Version war der Vergleich sehr schwierig. Es schien so einiges zu fehlen...
+Ich konnte aber schlussendlich folgendes festellen:
+- Zeitraum ist unterschiedlich: bei Syracuse ist der Zeitraum von 1939-1969 und bei in Archivesspaces 1939-1958.
+- Das Inventory finde ich im Archivesspace nicht bzw nur sehr begrenzt unter "Content" in einem Satz beschrieben. In Syracuse ist es detaillierte mit den Boxen aufgelistet.
+- Assessments sind leer in Archivesspaces
 
+Fazit: Ich weiss nun nicht ob ich überhaupt richtig verglichen habe oder etwas anderes gemeint war. Würde aber nun allgemein feststellen, dass es durchaus unterschiede gibt und ein grober Informationsverlust vorhanden ist!
 
-Die hochgeladenen Dateien wurden als "Resource" gespeichert. Für den Export klickte ich zuerst auf die vorhin hochgeladene Ressource und konnte dann über das Menü "Export" die Datei als MARCXML herunterladen.
-Die Datei landete auch im Download Ordner. Ich verglich diese dann mit den Daten aus dem Archivesspaces.
+Danach ging ich zum Export über.
+Die hochgeladenen Dateien wurden ja als "Resource" gespeichert. Für den Export klickte ich zuerst auf die vorhin hochgeladene Ressource und konnte dann über das Menü "Export" die Datei als MARCXML herunterladen. Ich musste diese Funktion zuerst suchen.
+Die Datei landete nach dem Export auch im Download Ordner. Ich öffnete sie dann und versuchte meinen Vergleich zu ziehen:
+-

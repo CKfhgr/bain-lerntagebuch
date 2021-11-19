@@ -25,4 +25,3 @@ Fazit: Ich weiss nun nicht ob ich überhaupt richtig verglichen habe oder etwas 
 Danach ging ich zum Export über.
 Die hochgeladenen Dateien wurden ja als "Resource" gespeichert. Für den Export klickte ich zuerst auf die vorhin hochgeladene Ressource und konnte dann über das Menü "Export" die Datei als MARCXML herunterladen. Ich musste diese Funktion zuerst suchen.
 Die Datei landete nach dem Export auch im Download Ordner. Ich öffnete sie dann und versuchte meinen Vergleich zu ziehen:
--

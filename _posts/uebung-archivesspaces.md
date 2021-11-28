@@ -1,4 +1,8 @@
-Übung Import und Export einer Ressource in Archivesspaces
+---
+title: Übung - Import und Export einer Ressource in Archivesspaces
+date: 2021-11-5
+---
+
 
 Die Übung bestand darin, EAD-Beispieldaten (im RAW-XML Format) in Archivesspaces zu importieren, diese dann mit der ursprünglichen Datei zu vergleichen und danach
 als MARCXML-Datei zu exportieren. Die EAD-Beispieldaten bezogen wir von American Association of Industrial Editors (AAIE) Records, eine Sammlung der Kollektion der Syracuse University.

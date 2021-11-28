@@ -1,6 +1,6 @@
 ---
 title: Übung - Import und Export einer Ressource in Archivesspaces
-date: 2021-11-5
+date: 2021-11-12
 ---
 
 

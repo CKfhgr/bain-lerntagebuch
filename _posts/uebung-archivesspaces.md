@@ -6,7 +6,7 @@ Am Ende sollten wir wiederum die exportierte Datei mit der hochgeladenen Datei i
 Ziel der Übung war es herauszufinden, ob und wann es zum Informationsverlust kam und ob es Unterschiede gab.
 
 Zuerst startete ich den Prozess von archivesspaces neu, da dieser wieder mal nicht lief. 
-Danach kopierte ich mir noch die Raw-XML Datei von https://eadiva.com/sample-ead-files/ herunter. Und hier ganz wichtig, da habe ich lange gebraucht...
+Danach kopierte ich mir noch die Raw-XML Datei von <a href="https://eadiva.com/sample-ead-files/">eadiva.com</a>  herunter. Und hier ganz wichtig, da habe ich lange gebraucht...
 Zuerst auf den Link "a raw XML file" mit Rechtsklick klicken und "Link speichern unter..." auswählen. Danach kann die XML-Datei heruntergeladen werden z.B. in den Downloads Ordner. 
 Gesagt - Getan. 
 Es folgte der Import. Um die Thematik und die Schrittfolge besser zu verstehen nutzte ich <a href="https://drive.google.com/file/d/1oSxnleSPIIlAbTksaEHWbP1RQseyIzu-/view">diese</a>

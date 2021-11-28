@@ -20,7 +20,7 @@ Ich konnte aber schlussendlich folgendes festellen:
 - Das Inventory finde ich im Archivesspace nicht bzw nur sehr begrenzt unter "Content" in einem Satz beschrieben. In Syracuse ist es detaillierte mit den Boxen aufgelistet.
 - Assessments sind leer in Archivesspaces
 
-Fazit: Ich weiss nun nicht ob ich überhaupt richtig verglichen habe oder etwas anderes gemeint war. Würde aber nun allgemein feststellen, dass es durchaus unterschiede gibt und ein grober Informationsverlust vorhanden ist!
+Fazit: Ich weiss nun nicht ob ich überhaupt richtig verglichen habe oder etwas anderes gemeint war. Würde aber nun allgemein feststellen, dass es durchaus Unterschiede gibt und ein grober Informationsverlust vorhanden ist!
 
 Danach ging ich zum Export über.
 Die hochgeladenen Dateien wurden ja als "Resource" gespeichert. Für den Export klickte ich zuerst auf die vorhin hochgeladene Ressource und konnte dann über das Menü "Export" die Datei als MARCXML herunterladen. Ich musste diese Funktion zuerst suchen.

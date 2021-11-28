@@ -16,7 +16,7 @@ Hier hatte ich auch wieder lange gebraucht, weil ich zuerst die <a href="https:/
 und nicht die <a href="https://library.syr.edu/digital/guides/a/aaie.htm">HTML-Datei</a> von Syracuse. Das war natürlich viel komplizierter um Unterschiede zu erkennen. Aber
 auch mit HTML Version war der Vergleich sehr schwierig. Es schien so einiges zu fehlen...
 Ich konnte aber schlussendlich folgendes festellen:
-- Zeitraum ist unterschiedlich: bei Syracuse ist der Zeitraum von 1939-1969 und bei in Archivesspaces 1939-1958.
+- Zeitraum unterschiedlich: bei Syracuse ist der Zeitraum von 1939-1969 und bei in Archivesspaces 1939-1958.
 - Das Inventory finde ich im Archivesspace nicht bzw nur sehr begrenzt unter "Content" in einem Satz beschrieben. In Syracuse ist es detaillierte mit den Boxen aufgelistet.
 - Assessments sind leer in Archivesspaces
 

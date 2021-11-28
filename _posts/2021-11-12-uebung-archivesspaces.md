@@ -22,10 +22,10 @@ auch mit HTML Version war der Vergleich sehr schwierig. Es schien so einiges zu 
 Ich konnte aber schlussendlich folgendes festellen:
 - Zeitraum unterschiedlich: bei Syracuse ist der Zeitraum von 1939-1969 und bei in Archivesspaces 1939-1958.
 - Das Inventory finde ich im Archivesspace nicht bzw nur sehr begrenzt unter "Content" in einem Satz beschrieben. In Syracuse ist es detaillierte mit den Boxen aufgelistet.
-- Assessments sind leer in Archivesspaces
+- Nur eine Resource in Archivespaces ersichtlich
 
-Fazit: Ich weiss nun nicht ob ich überhaupt richtig verglichen habe oder etwas anderes gemeint war. Würde aber nun allgemein feststellen, dass es durchaus Unterschiede gibt und ein grober Informationsverlust vorhanden ist!
+Fazit: Grober Informationsverlust durch Import.
 
 Danach ging ich zum Export über.
-Die hochgeladenen Dateien wurden ja als "Resource" gespeichert. Für den Export klickte ich zuerst auf die vorhin hochgeladene Ressource und konnte dann über das Menü "Export" die Datei als MARCXML herunterladen. Ich musste diese Funktion zuerst suchen.
-Die Datei landete nach dem Export auch im Download Ordner. Ich öffnete sie dann und versuchte meinen Vergleich zu ziehen. Ich fand keine Unterschiede zwischen beiden Dateien. Es schien bei Export alles übernommen worden zu sein.
+Für den Export klickte ich zuerst auf die vorhin hochgeladene Ressource und konnte dann über das Menü "Export" die Datei als MARCXML herunterladen.
+Die Datei landete nach dem Export auch im Download Ordner. Ich öffnete sie und versuchte meinen Vergleich zu ziehen. Ich fand zuerst keine Unterschiede zwischen beiden Dateien. Es schien bei Export alles übernommen worden zu sein. Bei der Besprechung der Lösung im Unterricht, wurden wir aber darauf hingewiesen, dass in MARC21 gar nicht alle archivspezifischen Felder exisitieren und deshalb gar nicht alles aus Archivespace übernommen wurde. Als Laie bemerkte ich diesen Informationsverlust auf den ersten Blick gar nicht.

@@ -5,19 +5,25 @@ date: 2021-11-19
 
 Es gibt einige Unterschiede zwischen Bibliotheks- und Archivsystemen. Nebst den genannten im Unterricht konnte ich noch folgende im Netz ausfindig machen:
 - 
-
-
-
 Danach wurde ein neues Thema eingeleitet: Repository-Software für Publikationen und Forschungsdaten.
-Nach einer allgemeinen Einführung in die Thematik open access und open data, lernten wir die freie Software "DSpace" näher kennen. DSpace ermöglicht das Anlegen von Repositories, in welchen Dokumente abgelegt werden.  Alle Studierenden musste eine eigene Community und Collection erstellen.
+Nach einer allgemeinen Einführung in die Thematik open access und open data, lernten wir die freie Software "DSpace" näher kennen. DSpace ermöglicht das Anlegen von Repositories, 
+in welchen Dokumente abgelegt werden und geteilt werden können. 
+Wir hatten dann die Möglichkeit eine eigene Community und Collection in DSPace zu erstellen.
 Normalerweise muss man DSpace zuerst installieren und konfigurieren. Da dies aber sehr aufwendig ist, nutzen wir die Demo-Version der Plattform: https://demo.dspace.org/
-In DSpace können zwei Ansichten genutzt werden: XMLUI und JSPUI. Ich nutze JSPUI, weil es für mich ansprechender vom Design und der Handhabung war. 
-
-die Möglichkeit eine Community und eine Collection aufzubauen.
-
-Eine Community
-DSpace: Meist eingesetzte Open Source weltweit
-Zenodo: Plattform, von Cern verwaltet
+In DSpace können zwei Oberflächen genutzt werden: XMLUI und JSPUI. Es gibt keinen Unterschied vom Inhalt her, beide nutzen dasselbe Backend.
+Ich nutze JSPUI, weil es für mich ansprechender vom Design und der Handhabung war. 
+Die Erstellung einer Community und Collection war nicht schwierig. Ich hatte eher Mühe mit dem Verständnis. Was war nun der Unterschied und warum braucht es noch eine Collection?
+Wir wurden zu diesem Thema aber dann aufgeklärt. Um die Rechte zentral verwalten zu können und nicht mühsam auf jeder Collection legt man zuerst eine Community an.
+Von dort aus können dann die Rechte an die User vergeben werden. Ich muss gestehen, ich hatte trotzdem Anfangs Mühe es zu verstehen.
+In unseren eigenen Collection mussten wir dann ein eigenes Dokument einreichen.
+Bevor man ein Dokument in einer Collection hochlädt werden zuerst die Metadaten angegeben. Pflicht sind Titel und Publikationsdatum. 
+Für mich persönlich wäre Autor noch ein Pflichtmetadatum. Per Default ist das Dokument für alle ersichtlich bzw. nur für die Personen die Zugriff auf die Collection haben.
+Man kann sich jedoch vor dem Hochladen des Dokuments entscheiden, ob man es auf Privat stellen möchte. Ein Lizenztyp ist wichtig um festzulegen, inwiefern das Dokument weiterverwendet bzw weiterebearbeitet werden darf.
+Man hat folgende Lizenztypen zu Auswahl:
+- Public Domain
+- CC0
+- Creative Commons
+- No Creative Commons Lizenz
 
 
 

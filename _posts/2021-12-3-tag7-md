@@ -20,7 +20,7 @@ So, nun muss ich gestehen, als uns die Software vorgestellt wurde dachte ich die
 Ausserdem hatten wir letztes Semester im Visualisierungskurs "Dynamic User Interfaces" die Programmiersprache "Python" näher angewendet. 
 Dort haben wir mittels des Werkzeuges "Pandas" unseren Datensatz zuerst bereinigt und angepasst, damit unsere Auswertung am Ende auch konsistent war. Auch mittels
 Pandas sind solche Bereinigungen möglich - eignet sich jedoch nicht für Personen, welche nicht gerne Programmieren. Da ist OpenRefine oder Excel besser, da diese eine
-grafische Benutzeroberfläche haben.
+grafische Benutzeroberfläche haben und keine Programmierkenntnisse nötig sind.
 
 Wir installierten OpenRefine auf unserer VM. Wie gewohnt sollten wir wieder unsere Command-Line öffnen, um die entsprechenden Installationsbefehle einzugeben.
 Zuerst mussten wir das entsprechende Archiv von https://github.com/OpenRefine/OpenRefine/releases/download/3.5.0/openrefine-linux-3.5.0.tar.gz herunterladen und entzippen.
@@ -31,20 +31,14 @@ hochgeladen werden.
 Wir lernten verschiedene Basisfunktionen kennen und machten noch eine kleine "Fingerübung" um uns näher damit ausseinander zu setzen. Da ich gerne solche Anwendungen bediene,
 hatte ich eigentlich keine Probleme.
 Ich werde hier nicht die Basisfunktionen beschreiben, die ich angewendet habe, das würde den Rahmen dieses Blogposts sprengen. Obwohl ich zu dieser ganzen Thematik noch
-viel mehr dazu schreiben könnte ;-). Ich möchte nur kurz auf 
+viel mehr dazu schreiben könnte ;-). Ich finde aber, dass die Software im Gegensatz zu Excel ohne Vorkenntnisse eingesetzt werden kann. Die Massenüberarbeitung
+ist ein wenig einfacher. Bei Excel sind gewisse Funktionen im grossen Menü versteckt und gehen ein wenig unter. OpenRefine ist nur auf das Säubern von Daten spezialisiert. Alle 
+Funktionen zielen darauf hin die Daten zu bereinigen.
+
+Die Funktion "Text Facet" ist aber nur praktisch wenn nicht eine unmengen von Daten vorliegen. Weitere Säuberungen können auch noch durchgeführt werden, 
+aber alles hat seine Grenzen. Bei grossen Datenbeständen wird es dann bald mal mühsam alle Fehler "auszubürsten".
 
 
-Language > Facet > Language facet -> Sprachen anzeigen in Filter links.
-Facet = eine Art Filter, was sind Auswirkungen??
-Massenüberarbeitung sehr einfach: Englisch als EN festlegen. Man kann mit OpenRefine super Daten säubern ohne Programmierkenntnisse. Ich errinerte mich an unsere Visualisierungskurs, in welchem wir auch Daten aus einem excel säubern mussten aber über Python!
-Finde diesen Weg echt super.
-
-Text Facet unbraucbar, da bei vielen Daten echt schieritg. Auch sind bei mehrere Autpren alles zusammengebündelt (zb bei mehrereh autoren): ABER man kann den Inhalt einer Spalte splitten.
-Über Edit Cell > Split multi-valued cells. Hier kann, wie in excel auch getrennt werden. Weitere Säuberungen können auch noch durchgeführt werden, aber alles hat seeine Grenzen.
-Bei grossen Datenbeständen wird es dann bald mal mühsam alles Fehler auszubürsten.
-
-Vereinheitlichen ist das Ziel.
-Bei Autoren kann man über Cluster & Edit column "Authors" automatishce vorschläge für änliche autoren angezeigt bekommen und die Werte mergen über *Merge?"
 
 (1) https://www.trifacta.com/blog/messy-data/ 
 

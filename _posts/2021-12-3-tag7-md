@@ -16,23 +16,23 @@ verstehen)
 - Inkonsistenz bei Bennenung Variablen. Beispiel: Die Spalte Sprache enthält für englischsprachige Werke mal "EN" und mal "Englisch". Man sollte sich auf eine Sprache einigen.
 - ...
 
+So, nun muss ich gestehen, als uns die Software vorgestellt wurde dachte ich die ganze Zeit: "Aber das kann doch Excel auch?". 
+Ausserdem hatten wir letztes Semester im Visualisierungskurs "Dynamic User Interfaces" die Programmiersprache "Python" näher angewendet. 
+Dort haben wir mittels des Werkzeuges "Pandas" unseren Datensatz zuerst bereinigt und angepasst, damit unsere Auswertung am Ende auch konsistent war. Auch mittels
+Pandas sind solche Bereinigungen möglich - eignet sich jedoch nicht für Personen, welche nicht gerne Programmieren. Da ist OpenRefine oder Excel besser, da diese eine
+grafische Benutzeroberfläche haben.
 
-
-
-
-
-Ich muss gestehen, als uns die Software vorgestellt wurde dachte ich die ganze Zeit: "Aber das kann doch Excel auch?". Ausserdem hatten wir letztes Semester im Visualisierungskurs
-die Programmiersprache "Python" kennengelernt. Dort 
-
-
--> OpenRefine ist ein in Java geschriebenes Programm zur Bereinigung und Umwandlung von Daten.
-
-Dann mussten wir OpenRefine bei uns auf der VM installieren. Wie gewohnt sollten wir wieder unsere Command-Line öffnen, um die entsprechenden Installationsbefehle einzugeben.
+Wir installierten OpenRefine auf unserer VM. Wie gewohnt sollten wir wieder unsere Command-Line öffnen, um die entsprechenden Installationsbefehle einzugeben.
 Zuerst mussten wir das entsprechende Archiv von https://github.com/OpenRefine/OpenRefine/releases/download/3.5.0/openrefine-linux-3.5.0.tar.gz herunterladen und entzippen.
+Um selbst an einem Beispiel zu testen, durften wir den folgenden Datensatz von Library Carpentry verwenden: https://raw.githubusercontent.com/LibraryCarpentry/lc-open-refine/gh-pages/data/doaj-article-sample.csv
+Das Beispiel war im CSV-Format, jedoch können auch andere Dateiformate von OpenRefine interpretiert werden. Nebst tabellarisch aufgebaute Dateien können auch JSON und XML Formate
+hochgeladen werden.
 
-Leider funktionierte bei mir die VM nicht. Aber Herr Lohmeier richtete einen OpenRefine Server und stellte ihn uns zur Verfügung. So konnten wir auch ohne VM mit dem OpenRefine
-arbeiten.
-Datenladen von https://raw.githubusercontent.com/LibraryCarpentry/lc-open-refine/gh-pages/data/doaj-article-sample.csv
+Wir lernten verschiedene Basisfunktionen kennen und machten noch eine kleine "Fingerübung" um uns näher damit ausseinander zu setzen. Da ich gerne solche Anwendungen bediene,
+hatte ich eigentlich keine Probleme.
+Ich werde hier nicht die Basisfunktionen beschreiben, die ich angewendet habe, das würde den Rahmen dieses Blogposts sprengen. Obwohl ich zu dieser ganzen Thematik noch
+viel mehr dazu schreiben könnte ;-). Ich möchte nur kurz auf 
+
 
 Language > Facet > Language facet -> Sprachen anzeigen in Filter links.
 Facet = eine Art Filter, was sind Auswirkungen??
@@ -43,7 +43,7 @@ Text Facet unbraucbar, da bei vielen Daten echt schieritg. Auch sind bei mehrere
 Über Edit Cell > Split multi-valued cells. Hier kann, wie in excel auch getrennt werden. Weitere Säuberungen können auch noch durchgeführt werden, aber alles hat seeine Grenzen.
 Bei grossen Datenbeständen wird es dann bald mal mühsam alles Fehler auszubürsten.
 
-£Vereinheitlichen ist das Ziel.
+Vereinheitlichen ist das Ziel.
 Bei Autoren kann man über Cluster & Edit column "Authors" automatishce vorschläge für änliche autoren angezeigt bekommen und die Werte mergen über *Merge?"
 
 (1) https://www.trifacta.com/blog/messy-data/ 

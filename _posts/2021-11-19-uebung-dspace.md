@@ -15,9 +15,11 @@ Darin erstellte ich mir noch zwei Dokumente. Nun war ich auf den selben Stand wi
 Aber ich vergass etwas: Die ca. 24 Stunden Wartezeit, bis die Daten auf http://demo.dspace.org/oai/request?verb=ListSets verfügbar sind.
 
 
-Unter "Records" > "Metadaten" waren dann meine Daten schlussendlich ersichtlich. Ein Zeichen, dass dies wenigstens geklappt hatte.
+Unter "Records" > "Metadaten" waren dann meine Daten schlussendlich im XML-Format ersichtlich. Ein Zeichen, dass dies wenigstens geklappt hatte.
 Die Daten mussten wir anschliessend auf unseren virtuellen Maschine als TXT herunterladen. Ich kopierte den Inhalt und fügte diesen in einer TXT Datei, welche
-ich auf dem Desktop meiner VM abgelegt hatte. Diese Daten sollten wir dann eigentlich für die 6. Vorlesung bereit halten aber da ich alles am nachholen war, nutzte ich für die 6. Vorlesung die Beispieldaten aus dem Kurs. Ich konnte also meine Daten schlussendlich nicht weiterverwenden.
+ich auf dem Desktop meiner VM abgelegt hatte. Ich schaute noch kurz in die File hinein und verglich diese mit meinen eingegebenen Metadaten. Es wurde alles übernommen. Ich hatte aber nur die Pflichtmetadaten angegeben gehabt, so dass es auf einem Blick erkennbar war.
+
+Diese Daten sollten wir dann eigentlich für die 6. Vorlesung bereit halten aber da ich alles am nachholen war, nutzte ich für die 6. Vorlesung die Beispieldaten aus dem Kurs. Ich konnte also meine Daten schlussendlich nicht weiterverwenden.
 
 
 

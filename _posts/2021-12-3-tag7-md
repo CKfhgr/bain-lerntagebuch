@@ -1,5 +1,29 @@
+Im heutigen Block lernten wir das Programm "OpenRefine" kennen. OpenRefine basiert auf Java und ist eignet sich dafür um grössere Mengen an Daten einfach zu bereinigen
+und anzupassen. Ähnlich wie man es von Excel kennt, kann man in OpenRefine Daten Filtern, Werte ändern, sortieren, schnelle Korrektur vornehmen, und und und... 
+(Komme gleich mit ein paar Beispielen darauf zurück)
 
-Nach einer Einführung...
+In diesem Zusammenhang mit Daten fiel der Begriff "Messy Data". OpenRefine ist darauf spezialisiert mit "Messy Data" umgehen zu können. Doch was bedeutet das eigentlich?
+Die Definition von "Messy Data" hat der Blog "Trifacta" (1) auf den Punkt gebracht: 
+Keine Person sollte mit einem neuen Datensatz arbeiten ohne ihn vorher zu bereinigen. Nicht alle Datensätze sind direkt per se unordendlich, sondern können vielfältige kleine
+Unstimmigkeiten enthalten, welche bereinigt werden müssen. Dies um eine korrekte Interpretation der Daten zu ermöglichen. Man möchte ja nicht falsche Schlüsse ziehen!
+Trifacta erwähnt in diesem Zusammenhang Beispiele für solche "Verschmutzungen"; ein paar davon liste ich hier auf. Ich habe diese mit ein paar Beispiele ergänzt um es besser zu
+verstehen)
+- fehlende Daten. *Beispiel: leere Inhalt bei Spalte Sprache. Auf welche Sprache ist nun das Werk? Es muss selbst nachkorrigiert werden*
+- unstrukturierte Daten
+- Mehrere Variablen in einer Spalte: Inhalte nicht atomar (gleicht eigentlich der ersten Normalform im Kontext Datenbanken). *Beispiel: In Spalte Autor werden drei Autoren für einen Datensatz aufgelistet.*
+- Variable in falsche Spalten & vertauschte Spalten. *Beispiel: Vorname in Nachname Spalte gespeichert*
+- Zusätzliche Leerzeichen, die nicht benötigt werden
+- Inkonsistenz bei Bennenung Variablen. Beispiel: Die Spalte Sprache enthält für englischsprachige Werke mal "EN" und mal "Englisch". Man sollte sich auf eine Sprache einigen.
+- ...
+
+
+
+
+
+
+Ich muss gestehen, als uns die Software vorgestellt wurde dachte ich die ganze Zeit: "Aber das kann doch Excel auch?". Ausserdem hatten wir letztes Semester im Visualisierungskurs
+die Programmiersprache "Python" kennengelernt. Dort 
+
 
 -> OpenRefine ist ein in Java geschriebenes Programm zur Bereinigung und Umwandlung von Daten.
 
@@ -22,7 +46,7 @@ Bei grossen Datenbeständen wird es dann bald mal mühsam alles Fehler auszubür
 £Vereinheitlichen ist das Ziel.
 Bei Autoren kann man über Cluster & Edit column "Authors" automatishce vorschläge für änliche autoren angezeigt bekommen und die Werte mergen über *Merge?"
 
-
+(1) https://www.trifacta.com/blog/messy-data/ 
 
 
 

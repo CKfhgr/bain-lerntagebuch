@@ -17,7 +17,7 @@ Aber ich vergass etwas: Die ca. 24 Stunden Wartezeit, bis die Daten auf http://d
 
 Unter "Records" > "Metadaten" waren dann meine Daten schlussendlich ersichtlich. Ein Zeichen, dass dies wenigstens geklappt hatte.
 Die Daten mussten wir anschliessend auf unseren virtuellen Maschine als TXT herunterladen. Ich kopierte den Inhalt und fügte diesen in einer TXT Datei, welche
-ich auf dem Desktop meiner VM abgelegt hat. Diese Daten sollten wir dann eigentlich für die 6. Vorlesung bereit halten aber da ich alles am nachholen war, nutzte ich für die 6. Vorlesung die Beispieldaten aus dem Kurs. Ich konnte also meine Daten schlussendlich nicht weiterverwenden.
+ich auf dem Desktop meiner VM abgelegt hatte. Diese Daten sollten wir dann eigentlich für die 6. Vorlesung bereit halten aber da ich alles am nachholen war, nutzte ich für die 6. Vorlesung die Beispieldaten aus dem Kurs. Ich konnte also meine Daten schlussendlich nicht weiterverwenden.
 
 
 

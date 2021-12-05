@@ -38,6 +38,10 @@ Funktionen zielen darauf hin die Daten zu bereinigen.
 Die Funktion "Text Facet" ist aber nur praktisch wenn nicht eine unmengen von Daten vorliegen. Weitere Säuberungen können auch noch durchgeführt werden, 
 aber alles hat seine Grenzen. Bei grossen Datenbeständen wird es dann bald mal mühsam alle Fehler "auszubürsten".
 
+Die  letzte Unterrichtsstunde musste ich nachholen, da ich noch ein Firmenevent hatte. Es wurde die CSV-Tabelle nach MARCXML exportiert.
+Ich habe es dann selbständig am Wochenende nachgeholt und es hatte alles funktioniert. Ich konnte dank der Aufzeichnung, den Ergebnisse aus den durchgeführten Gruppenarbeiten zu
+"Reverse Engineering" und "Template ergänzen" und den Bemerkungen des Dozenten alles genau nachvollziehen.
+
 
 
 (1) https://www.trifacta.com/blog/messy-data/ 

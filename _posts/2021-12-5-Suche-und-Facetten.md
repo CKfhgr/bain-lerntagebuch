@@ -12,7 +12,6 @@ Ich folgte und führte in meinem VuFind fast alle Schritte aus, welche im Video,
 Zuerst erstellte ich  eine Kopie der searches.ini File um den jetzigen Stand vor meinen Änderungen zu sichern.
 Hier blendete ich die Funktion ein, per Drop-Down selbst entscheiden zu dürfen wieviel Suchergebnisse auf einer Seite angezeigt werden sollten. Ich selbst nutze diesen Filter immer, weshalb er hier auch nicht fehlen durfte. Ausserdem sortierte ich die Suchergebnisse nach Alphabetischer Reihenfolge und erweiterte die Suchfelder (oben neben dem Suchschlitz) um ein Feld mehr "Journal Title".
 
-
-![vufind](https://user-images.githubusercontent.com/85638168/147689397-aaa62d39-86a9-4199-8969-9841f7051831.png)
-![vufind2](https://user-images.githubusercontent.com/85638168/147689400-7ffb1aba-8dfd-4dba-abcf-008bf008b799.png)
+Vorher: ![vufind](https://user-images.githubusercontent.com/85638168/147689397-aaa62d39-86a9-4199-8969-9841f7051831.png)
+Nachher: ![vufind2](https://user-images.githubusercontent.com/85638168/147689400-7ffb1aba-8dfd-4dba-abcf-008bf008b799.png)
 

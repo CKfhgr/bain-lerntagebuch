@@ -23,3 +23,4 @@ Bei den Facetten änderte ich nur wenig. Hier kann man schnell den User überfor
 ![vufind3](https://user-images.githubusercontent.com/85638168/147699942-c982e97f-d455-41a2-889d-853bb1a7ed18.png)
 
 Danach konnten wir noch die searchspecs.yaml Datei bearbeiten. Ich habe meine so belassen. Jedoch finde ich hier sehr interessant, dass man die Suchergebnisse so ins detail beeinflussen kann, dass z.B. auch bei Eingabe eines Suchbegriffs die Autorennamen zuerst dursucht und als erstes angezeigt werden und erst dann die Titel.
+Allgemein fand ich diese Übung sehr lehrreich und ich konnte hier viel zu der Thematik VuFind und Discovery-System mitnehmen.

@@ -17,3 +17,6 @@ Vorher: ![vufind](https://user-images.githubusercontent.com/85638168/147689397-a
 Nachher: ![vufind2](https://user-images.githubusercontent.com/85638168/147698384-4a24186f-9298-4738-a1ec-3d47b9247aa1.png)
 
 
+**Facetten konfigurieren** (facets.ini)
+Bei den Facetten änderte ich nur wenig. Hier kann man schnell den User überfordern wenn auf der rechten Seite alle Facetten aufgeklappt werden und jegliche Filter aktiv sind. Ich habe deshalb  bewusst eingestellt dass nur maximal 3 Facetten pro Kategorie aufgeklappt angezeigt werden. Ausserdem habe ich die Ausschliessen-Funktion aktiviert, damit der User die Möglichkeit hat Facette auszuschliessen. Für Language und Format habe ich zudem die Mehrfachauswahl aktiviert. Dies aber mehr zu Testzwecken.
+![vufind3](https://user-images.githubusercontent.com/85638168/147699942-c982e97f-d455-41a2-889d-853bb1a7ed18.png)

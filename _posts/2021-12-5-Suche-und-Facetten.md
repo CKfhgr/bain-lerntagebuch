@@ -14,5 +14,6 @@ Hier blendete ich die Funktion ein, per Drop-Down selbst entscheiden zu dürfen 
 
 Vorher: ![vufind](https://user-images.githubusercontent.com/85638168/147689397-aaa62d39-86a9-4199-8969-9841f7051831.png)
 
-Nachher: ![vufind2](https://user-images.githubusercontent.com/85638168/147689400-7ffb1aba-8dfd-4dba-abcf-008bf008b799.png)
+Nachher: ![vufind2](https://user-images.githubusercontent.com/85638168/147698384-4a24186f-9298-4738-a1ec-3d47b9247aa1.png)
+
 

@@ -1,5 +1,5 @@
 ---
-title: Übung - Übung Suche und Facetten
+title: Übung - Suche und Facetten
 date: 2021-12-5
 ---
 

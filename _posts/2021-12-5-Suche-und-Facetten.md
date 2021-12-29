@@ -8,7 +8,7 @@ Ich war froh, dass die Installation von VuFind schnell und einfach war, so konnt
 
 Ich folgte und führte in meinem VuFind fast alle Schritte aus, welche im Video, welches wir für die Übung anschauen mussten, aufgezeigt wurden. Ein paar Einstellungen setzte ich dann wieder zurück aber getestet hatte ich alle, um nachvollziehen zu können was sich ändert. 
 
-**Suche konfiguririeren** (search.ini) 
+**Suche konfigurieren** (search.ini) 
 Zuerst erstellte ich  eine Kopie der searches.ini File um den jetzigen Stand vor meinen Änderungen zu sichern.
 Hier blendete ich die Funktion ein, per Drop-Down selbst entscheiden zu dürfen wieviel Suchergebnisse auf einer Seite angezeigt werden sollten. Ich selbst nutze diesen Filter immer, weshalb er hier auch nicht fehlen durfte. Ausserdem sortierte ich die Suchergebnisse nach Alphabetischer Reihenfolge und erweiterte die Suchfelder (oben neben dem Suchschlitz) um ein Feld mehr "Journal Title".
 

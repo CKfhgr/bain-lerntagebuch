@@ -9,6 +9,7 @@ Ich war froh, dass die Installation von VuFind schnell und einfach war, so konnt
 Ich folgte und führte in meinem VuFind fast alle Schritte aus, welche im Video, welches wir für die Übung anschauen mussten, aufgezeigt wurden. Ein paar Einstellungen setzte ich dann wieder zurück aber getestet hatte ich alle, um nachvollziehen zu können was sich ändert. 
 
 **Suche konfigurieren** (search.ini) 
+
 Zuerst erstellte ich  eine Kopie der searches.ini File um den jetzigen Stand vor meinen Änderungen zu sichern.
 Hier blendete ich die Funktion ein, per Drop-Down selbst entscheiden zu dürfen wieviel Suchergebnisse auf einer Seite angezeigt werden sollten. Ich selbst nutze diesen Filter immer, weshalb er hier auch nicht fehlen durfte. Ausserdem sortierte ich die Suchergebnisse nach Alphabetischer Reihenfolge und erweiterte die Suchfelder (oben neben dem Suchschlitz) um ein Feld mehr "Journal Title".
 
@@ -18,5 +19,6 @@ Nachher: ![vufind2](https://user-images.githubusercontent.com/85638168/147698384
 
 
 **Facetten konfigurieren** (facets.ini)
+
 Bei den Facetten änderte ich nur wenig. Hier kann man schnell den User überfordern wenn auf der rechten Seite alle Facetten aufgeklappt werden und jegliche Filter aktiv sind. Ich habe deshalb  bewusst eingestellt dass nur maximal 3 Facetten pro Kategorie aufgeklappt angezeigt werden. Ausserdem habe ich die Ausschliessen-Funktion aktiviert, damit der User die Möglichkeit hat Facette auszuschliessen. Für Language und Format habe ich zudem die Mehrfachauswahl aktiviert. Dies aber mehr zu Testzwecken.
 ![vufind3](https://user-images.githubusercontent.com/85638168/147699942-c982e97f-d455-41a2-889d-853bb1a7ed18.png)

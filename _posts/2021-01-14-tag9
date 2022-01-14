@@ -18,5 +18,23 @@ im Suchsystem vorgenommen werden können. Der Dozent zeigte uns das Beispiel ein
 in Solr. Was man nicht sehen kann sind "Background"-Infos z.B. zur Kommunikation des Suchsystems (z.B. typo3find im Kontext DLA) und Solr. 
 Ich habe es nachträglich zum Kurs in meinem konfigurierten VuFind auf meiner VM getestet: Screenshot
 
+Dann wechselten wir zum Thema Linked Data.
+
+https://www.dnb.de/DE/Professionell/ProjekteKooperationen/Projekte/BIBFRAME/bibframe_node.html
+bibliothekarischen Formate für den Datenaustausch,
+Zuerst schauten wir uns BIBFRAME an, der Nachfolger von MARC21. BIBFRAME
+
+Dabei sollen die Möglichkeiten berücksichtigt werden, die Linked-Data- und Semantic-Web-Technologien mit sich bringen: Linked-Data Einsatz: Nicht alles in einem Datensatz sondern die
+Infoschnipsel separat beschreiben und miteinander in Beziehung setzten.
+
+Unterschied MARC21 und BIBFRAME (Screesnhots£?')
+Komplexes Netzwerk von Datensätze die miteinander verknüpft sind.
+
+BIBFRAME unterscheidet Work, Instance, Item: Diese Beschreiben. Hier ist die Unterscheidumg stärker als MARC21.
+Das Modell von BIBFRAME zeigt diese Zusammensetzung auch auf.
+Die Pfeile nach Aussen: Auf jeder der Ebenen sind die Entitäten in Eigenschaften beschrieben.
+Vorteil BibFrame: Daten müssen nicht Redundant angelegt werdeb, Man muss nur einmal anlegen und dann verknüpfen mit Verlag. Ein Verlag wir publiziert.
+z.B. Verlag ändert Namen: Nur an einen Ort nachführen und nicht in allen Datensätzen!!! Grosser Vorteil!
+
 
 

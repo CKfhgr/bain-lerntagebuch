@@ -3,12 +3,10 @@ title: Tag 9 - Linked Data
 date: 2021-01-14
 ---
 
-Nachtrag zum letzen Thema: Welche Discovery Services werden angezeigt auf https://librarytechnology.or; Ein paar habe ich schon gehört.
-
-finc: Solar Index, der zentral gepglegt wird
-
-
-deutsches literatur archiv: typo3 technologie¨, nischensoftware
+Heute starteten wir mit einem Nachtrag zum letzten Thema: Discovery Systeme. Hier wurde uns die Webseite https://librarytechnology.or vorgestellt, in welcher
+aktuelle eingesetzte Discovery Services angezeigt werden können. Ein paar hatten wir im Rahmen dieses Kurses bereits gehört.
+Danach wurde uns noch das Deutsche Literatur Archiv vorgestellt. Das hinterlegte Discovery-System ist hier typo3find. Das überraschte mich sehr, da ich bereits mit typo3 im Kontexz
+CMS-System bereits gearbeitet hatte. Von einem Discovery-System wusste ich nicht.
 Suchvorschläge zeigen auch normen an, 
 
 F12: Browserdaten anzeigen -> Network aufrufwn für Stichprobenmessng. Es werden alle einzelnen Kommunikationsprotokolle angezeigt GET/ POST
@@ -17,5 +15,9 @@ Dauer Suchbegriff ersichtlich. Ausslieferungszeit abgeschlossen.
 Das kann man auch über Solr und VuFind machen. Ich habe es bei VuFind gestestet (Screenshot)
 Gut als Geschwindigkeitsmessung.
 
+Eine sehr tolle Funktion - welche mir bereits aus dem Arbeitsumfeld bekannt ist - ist die "Netzwork"-Funktion in den Browsern. Diese kann in allen gängigen Browsern über die Taste
+"F12" aufgerufen werden.
+Kurz gesagt zeigt diese Funktion Kommunikationsprotokolle auf der Webseite an, auf der man sich gerade befindet. Dabei wird auch die Auslieferungszeit von Anfragen angezeigt.
+Weshalb es in diesem Kurs bei diesem Thema von Bedeutung ist, ist auf das Thema Suchmaschine und Discovery System zurückzuführen.
 
 

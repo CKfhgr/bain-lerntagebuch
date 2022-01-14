@@ -5,17 +5,18 @@ date: 2021-01-14
 
 Heute starteten wir mit einem Nachtrag zum letzten Thema: Discovery Systeme. Hier wurde uns die Webseite https://librarytechnology.or vorgestellt, in welcher
 aktuelle eingesetzte Discovery Services angezeigt werden können. Ein paar hatten wir im Rahmen dieses Kurses bereits gehört.
-Danach wurde uns noch das Deutsche Literatur Archiv vorgestellt. Das hinterlegte Discovery-System ist hier typo3find. Das überraschte mich sehr, da ich bereits mit typo3 im Kontexz
+Danach wurde uns noch das Deutsche Literatur Archiv vorgestellt. Das hinterlegte Discovery-System ist hier typo3find. Das überraschte mich sehr, da ich bereits mit typo3 im Kontext
 CMS-System bereits gearbeitet hatte. Von einem Discovery-System wusste ich nicht.
 Suchvorschläge zeigen auch normen an, 
 
 Eine sehr tolle Funktion - welche mir bereits aus dem Arbeitsumfeld bekannt ist - ist die "Netzwork"-Funktion in den Browsern. Diese kann in allen gängigen Browsern über die Taste
-"F12" aufgerufen werden. Sie wurde uns an dem heutigen Kurs nochmals nahe gelegt.
+"F12" aufgerufen werden. Sie wurde uns an dem heutigen Kurs nochmals nahegelegt.
 Kurz gesagt zeigt diese Funktion Kommunikationsprotokolle (z.B. GET oder POST) auf der Webseite an, auf der man sich gerade befindet. Dabei wird auch die Auslieferungszeit von Anfragen angezeigt.
 Weshalb es in diesem Kurs bei diesem Thema von Bedeutung ist, ist auf das Thema Suchmaschine und Discovery System zurückzuführen.
-Da kann man prüfen wie lange der Dienst braucht um ein Suchergebnis zurückzugeben. Das eignet sich für eine gelegentliche Stichprobenmessung und Geschwindigkeitsmessung, um zu sehen ob Verbesserungsmöglichkeiten
+Da kann man prüfen, wie lange der Dienst braucht, um ein Suchergebnis zurückzugeben. Das eignet sich für eine gelegentliche Stichprobenmessung und Geschwindigkeitsmessung, um zu sehen ob Verbesserungsmöglichkeiten
 im Suchsystem vorgenommen werden können. Der Dozent zeigte uns das Beispiel eines Inhalt von einem Network, anhand einer Suche über das Deutsche Literatur Archiv und eines direkt
-in Solr. Was man nicht sehen kann sind "Background"-Infos z.B. zur  Kommunikation des Suchsystems (z.B. typo3find im Kontext DLA) und Solr. 
+in Solr. Was man nicht sehen kann sind "Background"-Infos z.B. zur Kommunikation des Suchsystems (z.B. typo3find im Kontext DLA) und Solr. 
 Ich habe es nachträglich zum Kurs in meinem konfigurierten VuFind auf meiner VM getestet: Screenshot
+
 
 

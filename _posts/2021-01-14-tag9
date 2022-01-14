@@ -9,15 +9,18 @@ Danach wurde uns noch das Deutsche Literatur Archiv vorgestellt. Das hinterlegte
 CMS-System bereits gearbeitet hatte. Von einem Discovery-System wusste ich nicht.
 Suchvorschläge zeigen auch normen an, 
 
-F12: Browserdaten anzeigen -> Network aufrufwn für Stichprobenmessng. Es werden alle einzelnen Kommunikationsprotokolle angezeigt GET/ POST
 Wir können aber nich tKommunikation von Solar und typo3find sehen.
 Dauer Suchbegriff ersichtlich. Ausslieferungszeit abgeschlossen.
 Das kann man auch über Solr und VuFind machen. Ich habe es bei VuFind gestestet (Screenshot)
 Gut als Geschwindigkeitsmessung.
 
 Eine sehr tolle Funktion - welche mir bereits aus dem Arbeitsumfeld bekannt ist - ist die "Netzwork"-Funktion in den Browsern. Diese kann in allen gängigen Browsern über die Taste
-"F12" aufgerufen werden.
-Kurz gesagt zeigt diese Funktion Kommunikationsprotokolle auf der Webseite an, auf der man sich gerade befindet. Dabei wird auch die Auslieferungszeit von Anfragen angezeigt.
+"F12" aufgerufen werden. Sie wurde uns an dem heutigen Kurs nochmals nahe gelegt.
+Kurz gesagt zeigt diese Funktion Kommunikationsprotokolle (z.B. GET oder POST) auf der Webseite an, auf der man sich gerade befindet. Dabei wird auch die Auslieferungszeit von Anfragen angezeigt.
 Weshalb es in diesem Kurs bei diesem Thema von Bedeutung ist, ist auf das Thema Suchmaschine und Discovery System zurückzuführen.
+Da kann man prüfen wie lange der Dienst braucht um ein Suchergebnis zurückzugeben. Das eignet sich für eine gelegentliche Stichprobenmessung, um zu sehen ob Verbesserungsmöglichkeiten
+im Suchsystem vorgenommen werden können. Der Dozent zeigte uns das Beispiel eines Inhalt von einem Network, anhand einer Suche über das Deutsche Literatur Archiv und eines direkt
+in Solr. Was man nicht sehen kann sind "Background"-Kommunikationen  
+Ich habe es nachträglich zum Kurs in meinem konfigurierten VuFind auf meiner VM getestet: Screenshot
 
 

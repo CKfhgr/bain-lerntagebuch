@@ -1,6 +1,6 @@
 ---
 title: Was habe ich (nicht) gelernt?
-date: 2022-01-14
+date: 2022-01-15
 ---
 
 Abschliessend möchte ich diesen Blogpost nutzen, um kurz in meinen eigenen Worten zu erklären um was es dem Schaubild geht, welches uns während des gesamtes Semester begleitet hat. Dies, um zu wiederholen was wir angeschaut haben, und um meine Eindrücke und (nicht) Erlerntes direkt zu den einzelnen Themen festzuhalten. Das Schaubild habe ich zu diesen Zwecken mit farblichen Rahmen markiert, um besser darauf zu referenzieren.

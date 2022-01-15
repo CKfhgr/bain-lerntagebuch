@@ -28,4 +28,7 @@ Am Ende standen dann vier Datensätze aus 4 verschiedenen Systemen zur Verfügun
 
 **Feedback zu dieser Thematik**: *Auch hier kann ich sagen, habe ich sehr vieles mitnehmen können. Ich hatte nie richtig verstanden was ein Discovery System ist und was es dazu braucht um eines aufzubauen. Gelernt habe ich, dass es dazu gar nicht so viel braucht! Da kann ich mich nur bedanken. Hier konnte ich viel lernen und werde diese Thematik definitiv im Hinterkopf behalten.*
 
+Die letzte Thematik, Linked Data, wird in diesem Schaubild nicht aufgezeigt. Das Thema wurde leider sehr kurz gehalten und ich konnte hier nicht so viel mitnehmen wie in den letzten Unterrichtseinheiten. 
+
+Persönlich interessiert hatte mich am meisten das Thema "Discovery Systeme" und natürlich auch das Tool "OpenRefine". Beides 
 

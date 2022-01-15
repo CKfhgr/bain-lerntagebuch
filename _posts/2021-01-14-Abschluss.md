@@ -1,7 +1,10 @@
-Schaubild
--
+---
+title: Abschluss
+date: 2022-01-14
+---
 
-Mit dieser Unterrichtseinheit wurden die Inhalte des gesamten Schaubilds abgeschlossen. Ich möchte dies nutzen um hier kurz in meinen eigenen Worten zu erklären um was es in dem Schaubild geht.
+Zum Abschluss des Unterrichts, möchte ich in diesen Blogpost nutzen um hier kurz in meinen eigenen Worten zu erklären um was es dem Schaubild geht, welches uns während des gesamtes Semester begleitet hat.
+
 ![2021-12-30 14_27_32-2021-12-30 14_24_02-6  Suchmaschinen und Discovery-Systeme - Bibliotheks- und Ar](https://user-images.githubusercontent.com/85638168/147758639-730a09e4-4f96-40e4-9d7b-1fba1e459268.png)
 
 

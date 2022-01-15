@@ -6,6 +6,9 @@ date: 2022-01-14
 Was habe ich (nicht) gelernt?
 -
 
+Ein kurzer Rückblick zum Schaubild...
+--
+
 Zum Abschluss des Unterrichts, möchte ich in diesen Blogpost nutzen um hier kurz in meinen eigenen Worten zu erklären um was es dem Schaubild geht, welches uns während des gesamtes Semester begleitet hat. Dies um Einerseits zu Wiederholen was wir angeschaut haben, und um meine 
 
 ![2021-12-30 14_27_32-2021-12-30 14_24_02-6  Suchmaschinen und Discovery-Systeme - Bibliotheks- und Ar](https://user-images.githubusercontent.com/85638168/147758639-730a09e4-4f96-40e4-9d7b-1fba1e459268.png)

@@ -10,7 +10,9 @@ Zuerst kopierte ich mir die Raw-XML Datei von <a href="https://eadiva.com/sample
 Anleitung, die ich im Web bei meiner Recherche nach mehr Informationen zu Archivesspaces gefunden hatte. Diese half mir ein Gesamtverständnis für die ausgeführten Schritte aufzubringen. Als ich die Datei erfolgreich hochgeladen hatte, kontrollierte ich die Anzeige im Archivesspace mit der ursprünglichen Datei. Hier hatte ich auch wieder lange gebraucht, weil ich zuerst die <a href="https://eadiva.com/sampleEAD/syr-aaie.xml">RAW-XML Datei</a> angeschaut hatte und nicht <a href="https://library.syr.edu/digital/guides/a/aaie.htm">HTML-Datei</a> von Syracuse. Aber auch mit HTML Version war der Vergleich sehr schwierig. Es schien so einiges zu fehlen... Ich konnte aber schlussendlich folgendes feststellen:
 
 •	Zeitraum unterschiedlich: bei Syracuse ist der Zeitraum von 1939-1969 und in Archivesspaces 1939-1958
+
 •	Das Inventory finde ich im Archivesspace nicht, nur sehr begrenzt unter "Content" in einem Satz beschrieben. In Syracuse ist es detaillierter aufgelistet.
+
 •	Nur eine Ressource in Archivesspaces ersichtlich
 
 Fazit: Grober Informationsverlust durch Import.
